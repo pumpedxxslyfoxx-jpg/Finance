@@ -1,0 +1,17 @@
+{
+  "name": "LifeLedger Personal Finance",
+  "short_name": "LifeLedger",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f4",
+  "theme_color": "#10251f",
+  "description": "Personal finance tracker for Singapore dollars.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
